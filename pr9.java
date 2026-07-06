@@ -38,5 +38,5 @@
         ob.display();
     }
 
-    // Linked List
+    //sinlgy Linked List
 }
